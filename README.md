@@ -1,1 +1,1 @@
-# medicine-graph-llm
+# Conversational Medicine Assistant
