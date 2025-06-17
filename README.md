@@ -14,7 +14,7 @@ Example capabilities:
 
 - **Neo4j**: Graph database to store medicine-related entities and relationships.
 - **LangChain**: Framework for building LLM-driven applications.
-- **OpenAI GPT**: To understand natural language questions and generate Cypher queries.
+- **Gemini**: To understand natural language questions and generate Cypher queries.
 - **Gradio**: Interactive user interface for asking questions.
 - **Python**: Core programming language.
 
